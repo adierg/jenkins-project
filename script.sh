@@ -3,3 +3,5 @@
 echo "This is a very simple script for testing Jenkins"
 
 echo "Webbhook v1"
+
+echo "Good luck"
