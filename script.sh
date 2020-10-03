@@ -1,6 +1,3 @@
-node{
-  stage("Test"){
-    checkout scm
-    sh 'bash script.sh'
-  }
-}
+#!/bin/bash
+
+echo "This is a very simple script for testing Jenkins"
